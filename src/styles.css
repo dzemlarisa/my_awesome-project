@@ -147,3 +147,5 @@ html{ scroll-behavior:smooth; } /* Плавная прокрутка к #яко�
 .video-player::-webkit-media-controls-play-button {
   color: #fff;
 }
+
+[aria-invalid="true"] { border-color: #b00020; }
